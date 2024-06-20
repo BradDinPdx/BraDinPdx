@@ -1,5 +1,4 @@
-# demoHtml
-A Demo HTML Site from the Computing Fundamentals Course
+# Website Demo HTML Site from the Computing Fundamentals Course
 
 # Author
 Brad DeMaagd
